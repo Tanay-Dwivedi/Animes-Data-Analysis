@@ -1,12 +1,10 @@
 # Animes Data Analysis
 
-![Animes Data Analysis](image-9.png)
+![Animes Data Analysis](image/image-9.png)
 
 -----
 
 ## Problem Statement
-
-**Problem Statement:**
 
 The anime industry experiences continual growth and evolution, with a vast array of series being produced each year. However, understanding the dynamics of this industry and identifying trends in anime production, popularity, and reception can be challenging due to the sheer volume of data available. As such, there is a need for comprehensive analysis tools to extract **meaningful insights** from anime datasets.
 
@@ -39,7 +37,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to understand the diversity of anime genres present in the dataset and to identify any dominant or niche genres.
 
-![Genre Distribution](image.png)
+![Genre Distribution](image/image.png)
 
 **Observation**: This analysis provides insights into the prevalence of different genres within the anime dataset. It identifies the most common genres and their relative frequencies.
 
@@ -47,7 +45,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to track the growth and evolution of the anime industry over time, identifying key periods of expansion or decline.
 
-![Aired Year Distribution](image-1.png)
+![Aired Year Distribution](image/image-1.png)
 
 **Observation**: The distribution of anime across years shows the production trend over time. It reveals periods of high or low anime production.
 
@@ -55,7 +53,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to understand the typical episode lengths in anime and identify any trends or patterns in storytelling formats.
 
-![Episodes Distribution](image-2.png)
+![Episodes Distribution](image/image-2.png)
 
 **Observation**: This analysis illustrates the distribution of the number of episodes in anime series. It indicates whether most anime have few or many episodes.
 
@@ -64,7 +62,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to explore the relationship between audience engagement (measured by the number of members) and overall popularity of anime.
 
-![Members vs. Popularity](image-3.png)
+![Members vs. Popularity](image/image-3.png)
 
 **Observation**: It examines whether anime with a larger number of members tend to be more popular, indicating any correlation between audience size and popularity.
 
@@ -73,7 +71,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to understand the overall quality perception of anime in the dataset and identify any patterns or trends in scoring.
 
-![Score Distribution](image-4.png)
+![Score Distribution](image/image-4.png)
 
 **Observation**: This analysis showcases the distribution of scores given to anime, revealing whether most anime are rated highly, poorly, or fall in between.
 
@@ -81,7 +79,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to identify the most acclaimed and highly ranked anime in the dataset, providing recommendations for viewers interested in top-quality content.
 
-![Top 10 Ranked Anime](image-5.png)
+![Top 10 Ranked Anime](image/image-5.png)
 
 **Observation**: It highlights the top-ranked anime in the dataset, showcasing the most highly regarded titles based on ranking.
 
@@ -89,7 +87,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to understand the dynamics of audience engagement with anime over time, identifying periods of increased or decreased popularity.
 
-![Popularity over Time](image-6.png)
+![Popularity over Time](image/image-6.png)
 
 **Observation**: This analysis tracks how the popularity of anime has changed over the years, indicating any trends or fluctuations in audience interest.
 
@@ -98,7 +96,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
  
 **Aim**: The aim is to analyze trends in the perceived quality of anime over time, identifying any shifts in audience tastes or standards.
 
-![Score over Time](image-7.png)
+![Score over Time](image/image-7.png)
 
 **Observation**: It shows how the average score of anime has evolved over the years, indicating changes in audience preferences or quality of content.
 
@@ -106,7 +104,7 @@ The dataset I've chosen provides **comprehensive details** about each anime, suc
 
 **Aim**: The aim is to understand the evolution of episode lengths in anime over time, identifying any shifts towards shorter or longer series and exploring factors driving these changes, such as audience preferences or industry trends. Additionally, it helps in predicting future trends in episode lengths and planning anime production accordingly.
 
-![Episodes over Time](image-8.png)
+![Episodes over Time](image/image-8.png)
 
 **Observation**: This analysis tracks how the average number of episodes in anime has changed over the years. It reveals any trends or patterns in the episode lengths of anime series.
 
